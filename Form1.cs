@@ -1,4 +1,7 @@
-﻿using System;
+﻿/*I am going to guess this will take me 4 hours to get this complete.
+It only took me 2 hours to complete this. I am really getting the hang of C#*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
